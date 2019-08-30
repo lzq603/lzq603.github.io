@@ -12,7 +12,7 @@ author: 博主
 
 menu:
   home: 首页
-  archives: 归档
+  archives: 时间轴
   categories: 分类
   tags: 标签
   about: 关于
@@ -20,6 +20,9 @@ menu:
   schedule: 日程表
   sitemap: 站点地图
   commonweal: 公益404
+  tieda: 铁大导航
+  resource: 资源
+  tools: 小工具
 
 sidebar:
   overview: 站点概览
