@@ -2,9 +2,8 @@
 layout: page
 type: about
 ---
-关于我
 
-## <i class="fa fa-user"></i> 我是谁  
+## <i class="fa fa-user"></i> 李志强  
 软件工程专业大学生，喜爱编程，热爱IT行业。  
 21岁 | 2020应届生 | 石家庄 | lizhiqag@163.com  
 
