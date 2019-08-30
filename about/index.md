@@ -1,7 +1,4 @@
----
-layout: page
-type: about
----
+
 
 ## <i class="fa fa-user"></i> 李志强  
 软件工程专业大学生，喜爱编程，热爱IT行业。  
