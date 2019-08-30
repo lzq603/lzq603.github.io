@@ -117,13 +117,14 @@ index_with_subtitle: false
 
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
-  home: /
-  #categories: /categories/
-  #about: /about/
-  archives: /archives/
-  tags: /tags/
-  #sitemap: /sitemap.xml
-  #commonweal: /404.html
+  主页: /
+  铁大导航: https://www.tunan.work/
+  分类: /categories/
+  归档: /archives/
+  标签: /tags/
+  站点地图: /sitemap.xml
+  错误页面: /404.html
+  关于: /about/
 
 
 # Enable/Disable menu icons.
